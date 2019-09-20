@@ -1,2 +1,3 @@
 # AucklandHarbourBridgePinProblem
 Harbour Bridge is a bridge in Auckland connecting Auckland City with North Shore area. This bridge has a divider which is movable during the rush hours and can create more space for traffic coming from and towards the city. This "movable divider" has pins in between two blocks to connect them. During bad weather this pins sometimes come out and provide loose coupling between two blocks which ultimately produces danger conditions sometimes. This repository will provide solutions to this pin popping out problem.
+Data set used for this project is provided by one of the supervisor of the project and it is not for public use and hence not provided here. The code is provided only. 
